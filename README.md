@@ -19,4 +19,4 @@ https://keras.io/api/applications/mobilenet/
 
 To study about Freezing layers, have a look at page 150 to 156 of this book:
 
-(This Book)[https://drive.google.com/file/d/1gDt1RInELTkz20WkWTIUv-5lcXugYjum/view?usp=sharing]
+[This Book](https://drive.google.com/file/d/1gDt1RInELTkz20WkWTIUv-5lcXugYjum/view?usp=sharing)
